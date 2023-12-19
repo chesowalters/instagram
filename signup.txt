@@ -1,0 +1,4 @@
+can signup with email and password
+can signup with mobile and password
+login
+
