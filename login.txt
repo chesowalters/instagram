@@ -1,4 +1,5 @@
 login with email
 login with facial
-login with MFA
-login with finger print
+login with MFA and second
+login finger print  -- finger print bug issue
+
